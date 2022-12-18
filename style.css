@@ -83,6 +83,7 @@ body {
   display: flex;
   justify-content: space-between;
   padding: 20px 18px;
+  background-color: var(--tertiary-color);
 }
 
 .footer p {
@@ -114,6 +115,7 @@ body {
 .about-body-uv__p {
   font-size: 24px;
   color: var(--pwhite);
+  padding-left: 3rem;
 }
 
 .about-body-uv__quote {
